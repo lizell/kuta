@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.12.0",
+    "eslint": "^3.19.0",
     "eslint-config-prettier": "^2.9.0",
     "md2ghp": "0.0.6",
     "nyc": "^10.0.0",
